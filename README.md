@@ -1,2 +1,2 @@
 # Hello-World
-Being new to GitHub, I'm currently going through the tutorials.
+I'm currently an undergraduate student at a small community college, where I am getting my associates degree in engineering science with a major in computer engineering. From there, I'll be going further to receive my bachelor's, if not my master's, degree in computer engineering.  In my computer science classes, I've learned how to program with Java, but I am willing to learn any programming languages needed for my future career.
